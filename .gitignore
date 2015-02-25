@@ -1,0 +1,6 @@
+.idea/
+
+*.pyc
+*.sw*
+*.csv
+lfpscrappy/culr.txt
